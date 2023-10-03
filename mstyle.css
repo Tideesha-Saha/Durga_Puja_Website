@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(96, 25, 2);
+    color: white;
+    width:90%;
+}
+.head{
+    color:rgb(255, 213, 0)
+}
+#t1{
+    text-align:center;
+    color:#ffac11cb;
+
+}
+#first{
+    width:80%;
+    text-align: justify;
+    margin-right: 10%;
+}
+
+#second{
+    width:80%;
+    position: relative;
+    margin-left:10%;
+    text-align: right;
+    text-align: justify;
+}
+

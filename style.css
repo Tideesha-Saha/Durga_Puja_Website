@@ -1,0 +1,75 @@
+html{
+    background-color: rgb(96, 25, 2);
+}
+
+#DIV_BigCover{
+    width:60%;
+    height: 30%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+#cover{
+    width: 100%;
+    height: 60%;
+    border: 10px solid #ffac11cb
+}
+#title{
+    
+    text-align: center;
+    color:#ffac11cb;
+    width: 100%;
+    font-size:3rem;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Tiro Bangla', serif;
+}
+
+.DIV_c{
+    width:30%;
+    height:100%;
+    margin-left: 50%;
+    padding-bottom:0%;
+    border:5px solid white;
+    font-size:2rem;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Tiro Bangla', serif;
+    color:white;
+    text-align: center;
+}
+.image{
+    width:100%;
+    height:100%;
+    border:1px solid white;
+}
+.para{
+    margin-top: -2%;
+    margin-bottom: 0%;
+}
+
+.link{
+    font-size: 1rem;
+}
+
+#first{
+    margin-left: 20%;
+}
+
+#second{
+    margin-left:55%;
+}
+
+#third{
+    margin-left: 20%;
+}
+#fourth{
+    margin-left:55%;
+}
+#fivth{
+    margin-left: 20%;
+}
+#sixth{
+    margin-left:55%;
+}
+
